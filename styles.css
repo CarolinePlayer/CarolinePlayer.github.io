@@ -54,7 +54,7 @@ h3{
     margin: auto;
     line-height: 125%;
 }
-.about img {
+#abtImg {
     width: 50px;
     height: 100px;
     border-radius: 25%;
