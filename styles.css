@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(1, 1, 59);
+    background-color: rgb(136, 136, 211);
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-    color: rgb(242, 242, 242);
+    color: rgb(5, 1, 1);
     text-align: center;
 }
 
@@ -22,14 +22,14 @@ border-radius: 25%;
     width: 300px;
     height: 300px;
     margin: 10px;
-    border: 2px solid rgb(1, 1, 59); /* choose a color */
+    border: 2px solid rgb(40, 40, 75); /* choose a color */
     display: block;
     margin: auto;
 }
 
 a { /* change the appearance of ALL links */
     text-decoration: none;
-    color: rgb(242, 242, 242);
+    color: rgb(0, 0, 0);
 }
 
 .project p { /* change the appearance of paragraph tags inside .project divs */
